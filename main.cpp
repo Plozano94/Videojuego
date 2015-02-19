@@ -1,3 +1,8 @@
+/*fase de prueba para un codigo de generacion de escenarios 2D aleatorios, evitando colisiones 
+entre objetos, sabiendo su tamaño. Version para una matriz de diez elementos. al final está 
+pensado generar las coordenadas de cada objeto de forma aleatoria, pero para provar fallos, se meten a mano ahora.
+Los objetos colocados en esta version son de 2x2 elementos.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
